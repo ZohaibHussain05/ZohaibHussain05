@@ -36,9 +36,6 @@
 - 🧠 **Simon Game Clone**  
   A web-based memory game built using JavaScript – [Try it here](https://simon-game-gamma-gold.vercel.app/)
 
-- 💳 **Stripe Payment Integration**  
-  Secure checkout flow using Spring Boot + React + Next.js.
-
 ---
 
 ## 📊 GitHub Stats
@@ -55,7 +52,7 @@
 
 ## 🎯 2025 Goals
 
-- Land a backend-focused internship or remote job  
+- Land a backend-focused internship  
 - Master Spring Boot, ASP.NET, and system design  
 - Contribute to open-source projects  
 - Build and deploy multiple full-stack applications
@@ -64,9 +61,9 @@
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/zohaib-hussain-a57b24314/))
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/ZohaibHussain05)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:chzohaibjutt300@gmail.com)
 
 ---
 
