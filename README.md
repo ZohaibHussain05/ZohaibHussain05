@@ -61,7 +61,7 @@
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/zohaib-hussain-a57b24314/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/zohaib-hussain-a57b24314/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/ZohaibHussain05)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:chzohaibjutt300@gmail.com)
 
