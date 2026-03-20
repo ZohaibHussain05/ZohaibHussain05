@@ -1,10 +1,10 @@
-# 👋 Hello, I'm Zohaib Hussain!
+# Hello, I'm Zohaib Hussain!
 
-🎓 I'm a **Software Engineering student** with a strong passion for **backend development**, real-world problem-solving, and building practical applications. I enjoy working with technologies like **Spring Boot**, **ASP.NET**, and the **MERN stack** to build robust, full-stack solutions.
+I'm a Software Engineering student with a strong passion for coding, real-world problem-solving, and building practical applications. I enjoy working with technologies 
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
@@ -22,48 +22,28 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot)
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=dotnet)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap)
 ![Git](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git)
 
 ---
 
-## 🧠 Projects
+## Some Projects
 
-- ⚡ **Electricity Consumption Management System**  
+- **Electricity Consumption Management System**  
   C++ desktop app using WinForms & SQLite to help users schedule appliances based on electricity tariffs and reduce bills.
 
-- 🧠 **Simon Game Clone**  
+- **WanderLust Travel App**
+  Developed a full-stack travel discovery platform enabling userss to share and explore destination.
+  
+- **Simon Game Clone**  
   A web-based memory game built using JavaScript – [Try it here](https://simon-game-gamma-gold.vercel.app/)
-
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZohaibHussain05&show_icons=true&theme=tokyonight" alt="Zohaib's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ZohaibHussain05&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-## 🎯 2025 Goals
-
-- Land a backend-focused internship  
-- Master Spring Boot, ASP.NET, and system design  
-- Contribute to open-source projects  
-- Build and deploy multiple full-stack applications
-
----
-
-## 📫 Connect with Me
+## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/zohaib-hussain-a57b24314/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/ZohaibHussain05)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:chzohaibjutt300@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:hussain.zohaib.748@gmail.com)
 
 ---
 
