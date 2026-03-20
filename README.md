@@ -32,8 +32,8 @@ I'm a Software Engineering student with a strong passion for coding, real-world 
 - **Electricity Consumption Management System**  
   C++ desktop app using WinForms & SQLite to help users schedule appliances based on electricity tariffs and reduce bills.
 
-- **WanderLust Travel App**
-  Developed a full-stack travel discovery platform enabling userss to share and explore destination.
+- **WanderLust Travel App**   
+ Developed a full-stack travel discovery platform enabling userss to share and explore destination.
   
 - **Simon Game Clone**  
   A web-based memory game built using JavaScript – [Try it here](https://simon-game-gamma-gold.vercel.app/)
