@@ -27,13 +27,24 @@ I'm a Software Engineering student with a strong passion for coding, real-world 
 
 ---
 
-## Some Projects
+## Projects
+
+- **Naukri Agent**  
+  A web-based job portal featuring a modern user interface, smart job matching algorithm, AI cover letter generation, automated job scraping, secure authentication, and a comprehensive jobs dashboard.
+  (Link: https://github.com/ZohaibHussain05/NaukriAgent)
+
+- **Economic Ensemble Classification - Code Rush ML competetion ITU**  
+  A machine learning pipeline utilizing an optimized 2-way ensemble (LightGBM, TABNET) for robust data classification.
+  (Link: https://github.com/m-ahmad-butt/CodeRush-ML)
+
+- **RaagraTracker**  
+  A smart study planner integrating with Google Classroom to manage academic workflows, task tracking, and automated notifications.
 
 - **Electricity Consumption Management System**  
   C++ desktop app using WinForms & SQLite to help users schedule appliances based on electricity tariffs and reduce bills.
 
 - **WanderLust Travel App**   
- Developed a full-stack travel discovery platform enabling userss to share and explore destination.
+  Developed a full-stack travel discovery platform enabling users to share and explore destinations.
   
 - **Simon Game Clone**  
   A web-based memory game built using JavaScript – [Try it here](https://simon-game-gamma-gold.vercel.app/)
